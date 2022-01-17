@@ -8,3 +8,5 @@ Each FLP gets it's own readme, which outlines details like:
 *Any issues with the FLP such as missing samples or having paid plugins
 *A link to the official release of the song which you should click to support the original composer
 *The mod from which the song originated
+
+If a song you've made is up here and you want it taken down, please contact me on discord at Aurazona#1337.
