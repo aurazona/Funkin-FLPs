@@ -8,6 +8,9 @@
 
  [Support the original composer by listening to the official release here!](https://www.youtube.com/watch?v=-6wzQo7nkOE)
 
+ Heads up, this FLP:
+ *Requires paid plugins
+
  Required Plugins:
 * Serum
 * Magical8bit
